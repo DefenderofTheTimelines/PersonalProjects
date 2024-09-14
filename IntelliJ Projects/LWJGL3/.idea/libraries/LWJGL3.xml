@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="LWJGL3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Libaries/lwjgl-3.3.4/Jarfiles" />
+      <root url="file://$PROJECT_DIR$/../Libaries/lwjgl-3.3.4/Natives/Linux" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Libaries/lwjgl-3.3.4/Sources" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Libaries/lwjgl-3.3.4/Jarfiles" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Libaries/lwjgl-3.3.4/Natives/Linux" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Libaries/lwjgl-3.3.4/Sources" recursive="false" type="SOURCES" />
+  </library>
+</component>
